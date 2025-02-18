@@ -1,0 +1,11 @@
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\bin\Debug\net9.0\Domain.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\bin\Debug\net9.0\Domain.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\obj\Debug\net9.0\Domain.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\obj\Debug\net9.0\Domain.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Domain\obj\Debug\net9.0\ref\Domain.dll

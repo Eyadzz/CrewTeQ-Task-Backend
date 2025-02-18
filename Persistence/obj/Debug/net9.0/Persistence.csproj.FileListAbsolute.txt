@@ -1,0 +1,17 @@
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\bin\Debug\net9.0\Persistence.deps.json
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\bin\Debug\net9.0\Persistence.runtimeconfig.json
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\bin\Debug\net9.0\Persistence.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\bin\Debug\net9.0\Persistence.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\bin\Debug\net9.0\Domain.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\bin\Debug\net9.0\Domain.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persistence.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persistence.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\Persistence.genruntimeconfig.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Persistence\obj\Debug\net9.0\ref\Persistence.dll

@@ -1,0 +1,17 @@
+C:\MyFolder\CrewTeQ-Task-Backend\Application\bin\Debug\net9.0\Application.deps.json
+C:\MyFolder\CrewTeQ-Task-Backend\Application\bin\Debug\net9.0\Application.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Application\bin\Debug\net9.0\Application.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Application\bin\Debug\net9.0\Domain.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Application\bin\Debug\net9.0\Persistence.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Application\bin\Debug\net9.0\Persistence.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Application\bin\Debug\net9.0\Domain.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\Application.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\refint\Application.dll
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\Application.pdb
+C:\MyFolder\CrewTeQ-Task-Backend\Application\obj\Debug\net9.0\ref\Application.dll
